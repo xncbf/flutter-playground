@@ -1,0 +1,8 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "files.autoSave": "afterDelay",
+    "dart.flutterHotReloadOnSave": "allIfDirty",
+    "editor.rulers": [
+        120
+    ],
+}
